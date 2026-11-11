@@ -26,7 +26,7 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-<b>1.1 Detailed explanation of the proposed solution!</b>
+<b><u>1.1 Detailed explanation of the proposed solution!</u></b>
 
 In the present agricultural supply chain, farmers often have to depend on different agents and wholesalers to sell their products. During this process, farmers may receive a lower price, while consumers end up paying more. Another problem is that small farmers usually find it difficult to contact large buyers because they cannot supply the required quantity individually.
 
