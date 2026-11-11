@@ -159,7 +159,7 @@ The working process of CropRelay will be as follows:
 
 <img width="1200" height="899" alt="image" src="https://github.com/user-attachments/assets/da89c8c5-75da-40bd-b824-147094180328" />
 
-2.3 Main modules of the prototype
+<b>2.3 Main modules of the prototype</b>
 
 The first version of the application will contain the following modules:
 
@@ -178,7 +178,7 @@ The first version of the application will contain the following modules:
 These modules will help demonstrate the basic working of the proposed system.
 
 ## Feasibility and Viability
-3.1 Analysis of the feasibility of the idea
+<b>3.1 Analysis of the feasibility of the idea</b>
 
 CropRelay can be developed using technologies that are already available. It does not require expensive machines or special equipment to get started.
 
@@ -200,7 +200,7 @@ Operational Feasibility
 
 Farmers do not need to completely change their existing selling methods. CropRelay can work alongside local markets and FPOs. Farmers who are not familiar with smartphones can receive assistance from a local collection centre.
 
-3.2 Potential challenges and risks
+<b>3.2 Potential challenges and risks</b>
 
 Some difficulties may arise while implementing this project.
 
@@ -216,7 +216,7 @@ Changes in weather and market demand may affect the quantity of available produc
 
 Fake buyers or sellers may create difficulties in transactions.
 
-3.3 Strategies for overcoming these challenges
+<b>3.3 Strategies for overcoming these challenges</b>
 
 Provide a simple interface with regional language support, especially Tamil.
 
@@ -230,69 +230,70 @@ Display demand estimates rather than guaranteeing that all produce will be sold.
 
 Use mobile OTP verification and maintain proper transaction records.
 
-3.4 Implementation plan
+<b>3.4 Implementation plan</b>
+
 <img width="460" height="317" alt="image" src="https://github.com/user-attachments/assets/a009c510-4552-47b4-b5ce-1720e74c06fb" />
 
 ## Impact and Benefits
-4. Impact and Benefits
 
-4.1 Potential impact on the target audience
+<b>4.1 Potential impact on the target audience</b>
 
 The main users of CropRelay will be:
 
-Small and marginal farmers.
+1. Small and marginal farmers.
 
-Farmer Producer Organisations.
+2. Farmer Producer Organisations.
 
-Vegetable and fruit retailers.
+3. Vegetable and fruit retailers.
 
-Restaurants and supermarkets.
+4. Restaurants and supermarkets.
 
-Food processing companies.
+5. Food processing companies.
 
-Individual consumers.
+6. Individual consumers.
 
-Local transportation providers.
+7. Local transportation providers.
 
 The platform will be particularly useful for small farmers who find it difficult to approach large buyers on their own.
 
-4.2 Benefits of the solution
+<b>4.2 Benefits of the solution</b>
 
-Economic Benefits
+<b>Economic Benefits</b>
 
-Farmers get more opportunities to compare selling prices.
+=> Farmers get more opportunities to compare selling prices.
 
-Unnecessary commission expenses can be reduced.
+=> Unnecessary commission expenses can be reduced.
 
-Shared transportation can lower delivery costs.
+=> Shared transportation can lower delivery costs.
 
-Buyers can find products directly from farming communities.
+=> Buyers can find products directly from farming communities.
 
-Transaction details become easier to understand.
+=> Transaction details become easier to understand.
 
-Social Benefits
+<b>Social Benefits</b>
 
-Small farmers get better access to digital markets.
+=> Small farmers get better access to digital markets.
 
-Farmers can work together to fulfil larger orders.
+=> Farmers can work together to fulfil larger orders.
 
-Buyers can communicate directly with producers.
+=> Buyers can communicate directly with producers.
 
-Farmers get more information about market requirements.
+=> Farmers get more information about market requirements.
 
-Environmental Benefits
+<b>Environmental Benefits</b>
 
-Combining deliveries can reduce unnecessary vehicle trips.
+=> Combining deliveries can reduce unnecessary vehicle trips.
 
-Better planning can help reduce food wastage.
+=> Better planning can help reduce food wastage.
 
-Unsold produce can be redirected to alternative buyers.
+=> Unsold produce can be redirected to alternative buyers.
 
-Better use of transportation can reduce fuel consumption.
+=> Better use of transportation can reduce fuel consumption.
 
-4.3 Expected outcomes
+<b>4.3 Expected outcomes</b>
 
 For an initial pilot, we propose the following targets:
+
 <img width="727" height="295" alt="image" src="https://github.com/user-attachments/assets/30546e7e-68d1-42fd-b153-fedf8c608896" />
 
 These are expected targets for testing the project. Actual results will depend on the number of farmers, buyers, orders and delivery arrangements.
@@ -303,37 +304,37 @@ The overall aim of CropRelay is to help farmers receive a better share of the mo
 
 The following websites were referred to understand the existing agricultural market system and the technologies that can be used for this project.
 
-1. National Agriculture Market (e-NAM)
+<b>1. National Agriculture Market (e-NAM)</b>
 
 https://www.enam.gov.in/
 
 Provides information about online agricultural trading and connecting different agricultural markets.
 
-2. Small Farmers' Agribusiness Consortium (SFAC)
+<b>2. Small Farmers' Agribusiness Consortium (SFAC)</b>
 
 https://sfacindia.com/
 
 Provides information about Farmer Producer Organisations and collective agricultural activities.
 
-3. Open Network for Digital Commerce (ONDC)
+<b>3. Open Network for Digital Commerce (ONDC)</b>
 
 https://ondc.org/
 
 Provides information about digital commerce and connecting sellers and buyers through an open network.
 
-4. Ministry of Agriculture and Farmers Welfare
+<b>4. Ministry of Agriculture and Farmers Welfare</b>
 
 https://agriwelfare.gov.in/
 
 Provides information about agricultural development programmes and government initiatives.
 
-5. Government of India – FPO Scheme
+<b>5. Government of India – FPO Scheme</b>
 
 https://sfacindia.com/
 
 Provides information about the formation and support of Farmer Producer Organisations.
 
-6. OpenStreetMap
+<b>6. OpenStreetMap</b>
 
 https://www.openstreetmap.org/
 
